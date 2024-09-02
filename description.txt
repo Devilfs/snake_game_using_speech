@@ -1,0 +1,24 @@
+Voice-Controlled Snake Game
+
+This Python project implements a classic Snake game with a modern twist: voice control. Players can use their voice to direct the snake's movement, making it a more intuitive and accessible experience.
+
+Key Features:
+
+Voice Recognition: Utilizes a speech recognition library to convert spoken commands into actions.
+Game Logic: Implements core Snake game mechanics, including movement, food generation, and collision detection.
+Intuitive Controls: Provides a natural and accessible way to play the game.
+Customizable Difficulty: Offers adjustable game settings for different skill levels.
+Technologies:
+
+Python: The primary programming language used for development.
+SpeechRecognition - The library used for voice recognition.
+Pygame - The library used for game graphics and sound.
+How to Use:
+
+Install Requirements: Ensure you have the necessary Python libraries installed (speechrecognition , pyaudio , pygame).
+Run the Game: Execute the main Python script to start the game.
+Use Voice Commands: Speak clearly and distinctly to control the snake's direction.
+Right - to direct snake right side
+Left - to direct the snake to left side
+Down - to direct snake to down side
+Up - to direct to up
